@@ -44,7 +44,7 @@ const { data } = await useAsyncData("frontend-list", () =>
       "link",
       "image",
     ])
-    .sort({ publishedAt: -1 })
+    .sort({ sequence: 1 })
     .sort({ category: 1 })
     .find()
 );
