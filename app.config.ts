@@ -3,7 +3,4 @@ export default defineAppConfig({
     primary: "orange",
     gray: "cool",
   },
-  colorMode: {
-    preference: "light",
-  },
 });
