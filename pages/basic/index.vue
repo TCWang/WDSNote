@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full max-w-6xl not-prose">
+  <section class="w-full max-w-8xl not-prose">
     <h2>開發基礎</h2>
     <div class="column space-x-24 ml-6">
       <div>類別</div>
